@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLYuraLL/Stage1-epam.git"
+  },
+  "keywords": [
+    "demo",
+    "test"
+  ],
+  "author": "YuraSem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLYuraLL/Stage1-epam/issues"
+  },
+  "homepage": "https://github.com/LLYuraLL/Stage1-epam#readme"
+}
